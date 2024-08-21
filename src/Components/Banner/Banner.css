@@ -1,0 +1,16 @@
+.banner {
+    background-color: #ccc;
+    background-position: center;
+    background-size: cover;
+    height: 356px;
+    width: 100%;
+}
+
+.title-panel{
+    background-color: white !important;
+    border-radius: 37px 37px 0 0 !important;
+    font-size: 50px !important;
+    height: 150px !important;
+    margin: 0 auto !important;
+    max-width: 500px !important;
+}
