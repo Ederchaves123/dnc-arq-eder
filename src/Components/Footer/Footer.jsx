@@ -58,10 +58,10 @@ function Footer() {
                     <p className="grey-1-color">Copyright © DNC - 2024</p>
                     <div className="langs-area d-flex">
                         <Button buttonStyle="unstyled" onClick={() => changeLanguage('br')}>
-                            <img src={BrazilLogo} alt="star" height="40px" />
+                            <img src={BrazilLogo} alt="star" height="29px" />
                         </Button> 
                         <Button buttonStyle="unstyled" onClick={() => changeLanguage('en')}>
-                            <img src={UsaLogo} alt="star" height="40px" />
+                            <img src={UsaLogo} alt="star" height="29px" />
                         </Button> 
                     </div>
                 </div>
